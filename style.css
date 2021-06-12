@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+body,html {
+    padding:0;
+    margin:0;
+    background-image: url(https://wallpaperaccess.com/full/1235754.jpg);
+    background-size: cover;
+}
+.design {
+    width:350px;
+    margin: 8% auto 0   ;
+    text-align: center;
+    padding: 20px;
+    box-shadow:0 0 4px 0 #808080;
+    background-color: #fff;
+    font-family: 'Staatliches', cursive;
+}
+.topdes {
+    background-color:#008BF8;
+    Padding:1.5rem;
+    text-align:center;
+    font-family: 'Staatliches', cursive;
+    border-bottom-left-radius:1rem;
+}
+.input-box {
+    width:100%;
+    border-radius:0.5rem;
+    padding:8px 5px;
+    border:1px solid #000;
+}
+.sign-up-btn {
+    padding:5px 3rem;
+    margin-top:1rem;
+    margin-bottom:1rem;
+    background-color: #2a9df4;
+    border-radius:1rem;
+    font-family: 'Staatliches', cursive;
+    cursor:pointer;
+}
+.sign-up-btn:hover  {
+    background-color: #fff;
+}
+hr {
+    margin-top:20px;
+    width:80%;
+}
+.or {
+background-color: #fff;
+margin:-19px auto 10px;
+width:30px;
+
+}
+.body-bg {
+    object-fit:cover;
+}
