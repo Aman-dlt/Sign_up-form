@@ -6,7 +6,7 @@ body,html {
     background-size: cover;
 }
 .design {
-    width:350px;
+    width:25vmax;
     margin: 8% auto 0   ;
     text-align: center;
     padding: 20px;
